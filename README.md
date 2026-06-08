@@ -36,4 +36,4 @@ The purpose of this project is to showcase my skills, education, and projects in
 
 ## Author
 
-Rishi
+Sankeerthana
